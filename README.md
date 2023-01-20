@@ -1,3 +1,3 @@
 # meow
-mew
+npc system for vrchat
 meowwwww
